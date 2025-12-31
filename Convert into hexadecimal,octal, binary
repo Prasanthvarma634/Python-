@@ -1,0 +1,6 @@
+num=int(input("enter hexadecimal:"))
+octal=int(input("enter octal:"))
+binary=int(input("enter binary:"))
+print (num,16)
+print (octal,8)
+print (binary,2)
