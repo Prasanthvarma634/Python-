@@ -1,0 +1,5 @@
+n = int(input("Enter a number: "))
+if n % 3 == 0 and n % 7 == 0:
+    print(" is divisible by both 3 and 7 ")
+else:
+    print(" isn't divisible by both 3 and 7 ")
